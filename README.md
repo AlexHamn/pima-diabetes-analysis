@@ -1,5 +1,7 @@
 # Pima Diabetes Analysis
 
+[Check Out the project!](https://alexhamn.github.io/pima-diabetes-analysis/)
+
 ## Description
 
 In this project, we aim to analyze diabetes data and address some important business problems/questions.
@@ -32,10 +34,6 @@ Below is the attribute information:
 - [pandas](https://pandas.pydata.org/docs/index.html)
 - [seaborn](https://seaborn.pydata.org/)
 - [Pyplot](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)
-
-## Live Demo
-
-[Live Demo Link](https://alexhamn.github.io/pima-diabetes-analysis/)
 
 ## Author
 
